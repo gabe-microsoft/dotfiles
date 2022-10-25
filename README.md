@@ -19,6 +19,9 @@ The following shell customizations are defined:
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Grey prompt completion suggestions
   - [colored-man-pages](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/colored-man-pages): Color highlighting for manual pages
   - [command-not-found](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found): Gives suggestions when a command is not found
+- Configuration files for the following tools:
+  - screen: Enables scrolling
+  - tmux: Enables mouse support
 
 ## Installation
 
